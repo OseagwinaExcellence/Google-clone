@@ -1,0 +1,75 @@
+body {
+    background-color: black;
+}
+
+.main-div {
+    display: block;
+    margin-top: 150px;
+}
+
+img { 
+    width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom : 10px;
+}
+
+.main-input {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+    width: 590px;
+    height: 50px;
+    border: black 2px solid;
+    border-radius: 100px;
+    font-weight: bold;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.btn {
+    display: block;
+    teXt-align: center;
+}
+
+.btn-1, .btn-2 {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    height: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.btn-1{
+    margin-right: 10px;
+}
+
+.btn-2 {
+    margin-left: 10px;
+}
+
+span {
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+
+p{
+    margin-top: 30px;
+}
+
+.lang-1, .lang-2, .lang-3, .lang-4  {
+    color: lightblue;
+    margin-left: 7px;
+}
+
